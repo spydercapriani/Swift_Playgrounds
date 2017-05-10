@@ -1,0 +1,6 @@
+[submodule "swift-summary"]
+	path = swift-summary
+	url = https://github.com/jakarmy/swift-summary.git
+[submodule "Awesome-Swift-Playgrounds"]
+	path = Awesome-Swift-Playgrounds
+	url = https://github.com/uraimo/Awesome-Swift-Playgrounds.git
