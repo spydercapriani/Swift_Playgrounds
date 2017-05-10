@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4A684DB76DF1440D418BF0D4AC8C299D4F74EE3F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4A684DB76DF1440D418BF0D4AC8C299D4F74EE3F" : 9223372036854775807,
+    "6752C24C1A35350F23875047D7C350489FF02051" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "989928F4-D9FE-4CAA-96F2-FE9E1EBD9116",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4A684DB76DF1440D418BF0D4AC8C299D4F74EE3F" : "Swift_Playgrounds\/",
+    "6752C24C1A35350F23875047D7C350489FF02051" : "Swift_Playgrounds\/swift-summary\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Swift Playgrounds",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Swift Playgrounds.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/spydercapriani\/Swift_Playgrounds.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4A684DB76DF1440D418BF0D4AC8C299D4F74EE3F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jakarmy\/swift-summary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6752C24C1A35350F23875047D7C350489FF02051"
+    }
+  ]
+}
