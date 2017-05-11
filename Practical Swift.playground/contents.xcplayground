@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' auto-termination-delay='60' display-mode='raw'>
+    <pages>
+        <page name='Table of Contents'/>
+        <page name='Dependency Injection'/>
+        <page name='Presenter'/>
+        <page name='Singleton'/>
+        <page name='Protocols'/>
+        <page name='Protocol-Oriented Thinking'/>
+        <page name='Protocol-Oriented Thinking Pt2'/>
+        <page name='SpriteKit'/>
+        <page name='Basics of Value Types'/>
+        <page name='Basics of Reference Types'/>
+        <page name='Protocols &amp; UIKit'/>
+        <page name='Testing Protocols'/>
+        <page name='Testing UIApplication with Protocols'/>
+    </pages>
+</playground>
